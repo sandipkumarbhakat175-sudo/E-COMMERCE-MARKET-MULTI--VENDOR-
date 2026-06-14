@@ -47,5 +47,7 @@ Styling: Custom CSS with hover animations and transitions
 
 
 OUTPOT IMAGE -
+![image alt](https://github.com/sandipkumarbhakat175-sudo/E-COMMERCE-MARKET-MULTI--VENDOR-/blob/fe59c4f6e0d3fe7c4f0b4aa824619b8a8aec0491/OUTPUTimage01.png)
 ![image alt](https://github.com/sandipkumarbhakat175-sudo/E-COMMERCE-MARKET-MULTI--VENDOR-/blob/c1c3647144b41fd06328faf317f4c61b8038fd9d/OUTPUTimage02.png)
-![image alt](https://github.com/sandipkumarbhakat175-sudo/E-COMMERCE-MARKET-MULTI--VENDOR-/blob/c1c3647144b41fd06328faf317f4c61b8038fd9d/OUTPUTimage02.png)
+![image alt](
+![image alt](
